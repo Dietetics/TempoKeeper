@@ -3,7 +3,7 @@
 ## Titre
 TempoKeeper
 
-## Description
+## Description de l'application
 Avec Excel. Enregistrer les activités de la journée pour s'attendre à une meilleur discipline.
 
 ## installation
